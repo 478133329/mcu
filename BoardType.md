@@ -307,3 +307,9 @@ BM1690EVB
 Chip: BM1690
 
 SC11
+
+## 0xB7
+
+Chip: CV84X6
+
+EVB
